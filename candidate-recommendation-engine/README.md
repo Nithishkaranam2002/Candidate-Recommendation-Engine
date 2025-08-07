@@ -60,16 +60,6 @@ You have dozens—or hundreds—of resumes, and one job description.
 - Username: `demo`  
 - Password: `demo123`
 
----
-
-## 📸 Quick Screenshot
-
-| Dashboard with Results | AI-Generated Fit Summary |
-|:---------------------:|:-----------------------:|
-| ![Screenshot 1](link_to_screenshot1) | ![Screenshot 2](link_to_screenshot2) |
-
----
-
 ## 🚀 How to Use (For Recruiters & Clients)
 
 1. **Go to the app (link above) and log in** with the demo account or sign up for your own.
@@ -139,3 +129,4 @@ Contact & Credits
 Developed by Nithish karanam
 Email:nithishkaranam15@gmail.com
 Feel free to reach out for questions or support!
+
