@@ -4,7 +4,7 @@
 
 ## 📲 How to Use (For Recruiters & Clients)
 
-1. **Go to the app ([Live Link](https://share.streamlit.io/yourusername/candidate-recommendation-engine)).**
+1. **Go to the app ([Live Link]( https://candidate-recommendation-engine-kt87cn46dxxvlhgqyrf45x.streamlit.app)).**
 2. **First time? Click the “Sign Up” tab on the login page.**
     - Enter your desired username and password to register.
 3. **Returning user? Use the “Sign In” tab.**
@@ -53,7 +53,7 @@ You have dozens—or hundreds—of resumes, and one job description.
 ## 👀 Live Demo
 
 **Try it here:**  
-[https://share.streamlit.io/yourusername/candidate-recommendation-engine](https://share.streamlit.io/yourusername/candidate-recommendation-engine)  
+[https://share.streamlit.io/yourusername/candidate-recommendation-engine]( https://candidate-recommendation-engine-kt87cn46dxxvlhgqyrf45x.streamlit.app)  
 *(Replace with your real link after deployment)*
 
 **Demo Login:**  
@@ -129,4 +129,5 @@ Contact & Credits
 Developed by Nithish karanam
 Email:nithishkaranam15@gmail.com
 Feel free to reach out for questions or support!
+
 
